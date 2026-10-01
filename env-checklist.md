@@ -1,0 +1,5 @@
+# Env vars checklist
+
+- DATABASE_URL
+- NEXTAUTH_SECRET
+- NODE_ENV=production
